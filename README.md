@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JAVASCRIPTING
 
 > Learn JavaScript by adventuring around in the terminal.  
